@@ -1,2 +1,23 @@
-# PRODIGY_CS_01
-This project implements the Caesar Cipher, one of the simplest and most well-known encryption techniques. It allows users to encrypt and decrypt text by shifting characters based on a user-defined key. This helped me understand the basics of string manipulation, character encoding, and simple cryptographic algorithms using Python.
+🔐 Caesar Cipher – Cyber Security Internship Task
+📌 Task Objective :-
+The goal of this task was to:
+
+Create a Python script capable of encrypting and decrypting user-input text.
+Accept a custom message and a shift value from the user.
+Apply the Caesar Cipher algorithm to shift letters accordingly and return the output.
+Build understanding of data confidentiality through basic encryption techniques.
+🧠 What Caesar Cipher :-
+The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a fixed number of positions in the alphabet. It is one of the earliest and simplest methods of encryption, historically used by Julius Caesar to protect military messages.
+
+💡 Key Features of the Project :-
+The program allows interactive input for the message and shift value.
+It supports both encryption and decryption, depending on user choice.
+It handles uppercase and lowercase letters, maintaining their original case.
+Non-alphabetic characters such as punctuation or numbers are preserved without changes.
+The shift logic uses modular arithmetic to wrap around the alphabet.
+🖥️ How the Program Works :-
+The user is prompted to choose between encryption ('e') or decryption ('d').
+The user inputs the message to be encrypted or decrypted.
+The user enters an integer shift value.
+Based on the choice, the shift is either added or subtracted from each character.
+The final result is printed to the console.
