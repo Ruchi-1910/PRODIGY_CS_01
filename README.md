@@ -50,7 +50,7 @@ It is one of the **earliest and simplest encryption methods**, historically used
 ---
 
 ## 🔗 LinkedIn Post
-[Your LinkedIn post link here]
+https://www.linkedin.com/posts/ruchita-salunkhe-28770a28a_github-ruchi-1910prodigycs01-this-project-activity-7346478048625528832-7gNM?utm_source=share&utm_medium=member_android&rcm=ACoAAEY6eQcBJdbhaFkfvmbBxqZnIXVEFnQ0e5g
 
 ---
 
